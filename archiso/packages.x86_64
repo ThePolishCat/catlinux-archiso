@@ -155,3 +155,6 @@ kwrite
 dolphin
 plasma-workspace
 egl-wayland
+
+calamares
+catlinux-calamares-config
