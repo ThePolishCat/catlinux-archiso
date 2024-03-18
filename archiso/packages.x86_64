@@ -147,6 +147,9 @@ intel-media-driver
 vulkan-radeon
 vulkan-intel
 
+bluez
+bluez-utils
+
 sddm
 network-manager-applet
 plasma-meta
